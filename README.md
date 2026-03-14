@@ -1,3 +1,23 @@
+# Temperature Variability in France (2004–2023)
+
+> Climate data visualization project analysing 20 years of temperature trends across France using TerraClimate rasters, R, and animated visualizations.
+>
+> Developed as part of the SIGMA Master's program (UE 902-2 Data Visualization), Université Toulouse 2 Jean Jaurès / Agro Toulouse.
+
+**Visualizations produced:**
+- Animated map of mean annual temperatures (GIF)
+- Ridgeline plot of monthly temperature distributions
+- Climate anomaly maps (departure from 20-year mean)
+- Seasonal trend analysis with linear regressions
+- Regional temperature facet plots with slope annotations
+- Max vs. Min temperature scatter plots comparing two decades
+
+**Tech stack:** R · ggplot2 · terra · ggridges · magick · parallel processing
+
+---
+*The detailed documentation below is in French, as originally written for the course.*
+---
+
 # **Variabilité des Températures en France (2004-2023)**
 
 Ce projet est une analyse complète des **températures climatiques en France** sur les 20 dernières années, réalisée dans le cadre de l'UE902_2 *Visualisation de Données* du **Master SIGMA** (Université Toulouse 2 Jean Jaurès / ENSAT-INP).
