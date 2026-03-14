@@ -1,5 +1,10 @@
 # Temperature Variability in France (2004–2023)
 
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat)
+![terra](https://img.shields.io/badge/terra-276DC3?style=flat)
+![TerraClimate](https://img.shields.io/badge/TerraClimate-4285F4?style=flat)
+
 > Climate data visualization project analysing 20 years of temperature trends across France using TerraClimate rasters, R, and animated visualizations.
 >
 > Developed as part of the SIGMA Master's program (UE 902-2 Data Visualization), Université Toulouse 2 Jean Jaurès / Agro Toulouse.
